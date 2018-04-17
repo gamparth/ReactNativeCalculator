@@ -1,8 +1,1 @@
-
-/* main file
-	author : Parth Gambhir
-
-*/
-'use strict';
-
-import ReactCalculator from'./src/calculator';
+import Calculator from './src/Calculator';
